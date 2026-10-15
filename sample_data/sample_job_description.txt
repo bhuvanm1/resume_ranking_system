@@ -1,0 +1,18 @@
+Role: Junior AI Engineer
+
+We are looking for a junior AI Engineer to build and evaluate machine learning and generative AI applications.
+
+Required qualifications:
+- Python programming
+- Pandas and NumPy for data processing
+- Scikit-learn and machine learning fundamentals
+- Experience evaluating models
+- Familiarity with REST APIs
+
+Preferred qualifications:
+- LLM applications and prompt engineering
+- Retrieval augmented generation (RAG) and vector databases
+- FastAPI or Streamlit
+- Git and Docker
+
+The role involves preparing datasets, building prototypes, evaluating model performance, writing maintainable Python code, and documenting results.

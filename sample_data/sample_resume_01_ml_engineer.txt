@@ -1,0 +1,16 @@
+Aarav Sharma
+Junior Machine Learning Engineer
+
+Summary
+Python developer focused on machine learning prototypes, data processing, and evaluation.
+
+Technical Skills
+Python, Pandas, NumPy, scikit-learn, SQL, FastAPI, Git, REST API, Streamlit, Machine Learning, Model Evaluation.
+
+Projects
+Customer Churn Prediction: Cleaned tabular data using Pandas and NumPy, trained Logistic Regression and Random Forest models with scikit-learn, and compared precision, recall, F1-score, and ROC-AUC.
+
+Resume Search Prototype: Built a small FastAPI REST API and Streamlit front end for exploring model outputs.
+
+Education
+B.Tech in Computer Science

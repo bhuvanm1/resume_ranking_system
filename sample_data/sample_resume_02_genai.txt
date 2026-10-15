@@ -1,0 +1,16 @@
+Meera Iyer
+Generative AI Intern
+
+Summary
+Built small GenAI prototypes using Python and LLM application frameworks.
+
+Technical Skills
+Python, Pandas, NumPy, Machine Learning, LangChain, LLM, Prompt Engineering, RAG, Vector Database, Chroma, OpenAI API, FastAPI, Git, Docker, Streamlit.
+
+Projects
+Knowledge Base Assistant: Implemented retrieval augmented generation using document chunking, embeddings, Chroma vector store, and an LLM. Evaluated answer relevance with a small manually reviewed test set.
+
+Product FAQ Service: Exposed a Python prototype through FastAPI and created a Streamlit demo. Used Git for version control.
+
+Education
+B.Sc. in Information Technology

@@ -1,0 +1,16 @@
+Rohan Patel
+Data Analyst
+
+Summary
+Data analyst with experience creating reports and exploring business datasets.
+
+Technical Skills
+SQL, Microsoft Excel, Power BI, Tableau, Python, Pandas, NumPy, Data Analysis, Data Visualization, Statistics.
+
+Projects
+Sales Analytics: Cleaned sales data with Python and Pandas, queried relational tables with SQL, and built Power BI dashboards to highlight monthly trends.
+
+Customer Insights: Used descriptive statistics and Tableau to present segment-level purchasing patterns.
+
+Education
+B.Com in Business Analytics
